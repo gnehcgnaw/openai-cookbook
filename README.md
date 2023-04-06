@@ -78,11 +78,11 @@ If there are examples or guides you'd like to see, feel free to suggest them on 
 
 [chatgpt]: https://chat.openai.com/
 [openai api]: https://openai.com/api/
-[api signup]: https://beta.openai.com/signup
-[openai playground]: https://beta.openai.com/playground
-[openai documentation]: https://beta.openai.com/docs/introduction
+[api signup]: https://platform.openai.com/signup
+[openai playground]: https://platform.openai.com/playground
+[openai documentation]: https://platform.openai.com/docs/introduction
 [openai community forum]: https://community.openai.com/top?period=monthly
 [openai help center]: https://help.openai.com/en/
-[openai examples]: https://beta.openai.com/examples
+[openai examples]: https://platform.openai.com/examples
 [openai blog]: https://openai.com/blog/
 [issues page]: https://github.com/openai/openai-cookbook/issues
