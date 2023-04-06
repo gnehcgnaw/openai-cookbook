@@ -132,3 +132,12 @@ dmypy.json
 *transactions*.jsonl
 /examples/data/transactions*
 *.DS_Store
+.idea
+.idea/.gitignore
+.idea/misc.xml
+.idea/openai-cookbook.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/modules.xml
+.idea/vcs.xml
+
